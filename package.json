@@ -31,7 +31,7 @@
     "lodash": "^4.17.11",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-modal": "github:Schweitzer-Engineering-Laboratories/react-modal#bcb14a85a103a720fa35b3654d0d06f355f1ccd5"
+    "react-modal": "github:jep-a/react-modal#604c6264df5532e5950a763fcd79e0990ad5e020"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
