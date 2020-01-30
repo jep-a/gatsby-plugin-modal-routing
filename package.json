@@ -31,7 +31,7 @@
     "lodash": "^4.17.11",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-modal": "github:jep-a/react-modal#604c6264df5532e5950a763fcd79e0990ad5e020"
+    "react-modal": "github:jep-a/react-modal#bugfix/chrome-scroll-after-dialog-close"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
